@@ -1,6 +1,6 @@
 # Hugo Pereira & [Félix Liburski](https://github.com/felixlbr)
 
-**IMPORTANT** : Ce projet est aucunement un projet personnel et a pour but éducatif - Projet pour Université Paris Cité. Ce dernier était à faire en binôme et il constitue notre troisème projet de développement (premier en JAVA).
+**IMPORTANT** : Ce projet est aucunement un projet personnel. Il a été fait dans le cadre de ma première année de BUT informatique à l'Université Paris Cité. Ce dernier était à faire en binôme et il constitue notre troisième projet de développement (premier en JAVA/développement objet).
 
 ## Introduction <a class="anchor" id="chapter1"></a>
 <div align="justify">Le projet consiste à reproduire le jeu du 6 qui prend tout en l’adaptant
